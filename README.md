@@ -4,7 +4,7 @@ Welcome to my GitHub profile; thank you for checking it out!
 Here is a summary of who I am and what I can do:
 
 ### ✨ General
-I'm a 16 years old boy (*he/him*) who lives in Italy who had way too much spare time
+I'm a 16 years old boy (*he/him*) who lives in Italy, had way too much spare time
 during his childhood and used it to learn the most random of things,
 from balisong flipping to musical composition.
 
@@ -21,7 +21,7 @@ from backends to frontends, from Windows, iOS or Android client apps to
 games. Most of the times, I'm able to make whatever I put my mind to.
 ### ☄️ Skills
 I'm best at **Python**, **C#**, **Kotlin** and **Rust**, but I also know a bit of 
-*Java*, *JavaScript*, *Swift* and *Visual Basic* (it's what I started coding with).
+*C++*, *Java*, *JavaScript*, *Swift* and *Visual Basic* (it's what I started coding with).
 
 
 ## 🔭 Contacts
