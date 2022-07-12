@@ -26,6 +26,6 @@ I'm best at **Python**, **C#**, **Kotlin** and **Rust**, but I also know a bit o
 
 ## 🔭 Contacts
 - **Discord**: [strawberry.#7501](https://discord.com/users/110107013207306240/)
-- **Telegram**: [zephyrflac](t.me/zephyrflac)
-- **E-mail**: [personal@zeph.codes](mailto://personal@zeph.codes)
+- **Telegram**: [zephyrflac](https://t.me/zephyrflac)
+- **E-mail**: <personal@zeph.codes>
 I don't usually check or use other platforms.
