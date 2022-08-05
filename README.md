@@ -19,6 +19,8 @@ Other hobbies I have include:
 I'm more of a "jolly" in coding, meaning I code just about anything, 
 from backends to frontends, from Windows, iOS or Android client apps to
 games. Most of the times, I'm able to make whatever I put my mind to.
+My best repositories, the ones for my personal projects, are kept
+private for now, so don't be misled.
 ### ☄️ Skills
 I'm best at **Python**, **C#**, **Kotlin** and **Rust**, but I also know a bit of 
 *C++*, *Java*, *JavaScript*, *Swift* and *Visual Basic* (it's what I started coding with).
