@@ -14,6 +14,8 @@ Other hobbies I have include:
 - 🎼 Musical production
 - 📸 Photography
 - 🎬 Video editing
+- 🎮 Gaming
+- 🏋️‍♂️ Working out
 
 ## 🌟 Programming
 I'm more of a "jolly" in coding, meaning I code just about anything, 
