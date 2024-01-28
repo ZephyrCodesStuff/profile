@@ -29,7 +29,7 @@ I'm best at **Python**, **C#**, **Kotlin** and **Rust**, but I also know a bit o
 
 
 ## 🔭 Contacts
-- **Discord**: [Zeph#0099](https://discord.com/users/110107013207306240/)
+- **Discord**: [zephyr.flac](https://discord.com/users/110107013207306240/)
 - **Telegram**: [zephyrflac](https://t.me/zephyrflac)
 - **E-mail**: <personal@zeph.codes>
 I don't usually check or use other platforms.
