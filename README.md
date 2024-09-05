@@ -31,5 +31,5 @@ I'm best at **Python**, **C#**, **Kotlin** and **Rust**, but I also know a bit o
 ## 🔭 Contacts
 - **Discord**: [zephyr.flac](https://discord.com/users/110107013207306240/)
 - **Telegram**: [zephyrflac](https://t.me/zephyrflac)
-- **E-mail**: <personal@zeph.codes>
+- **E-mail**: <zeph@zephs.me>
 I don't usually check or use other platforms.
