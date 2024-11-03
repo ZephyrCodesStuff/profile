@@ -23,13 +23,17 @@ from backends to frontends, from Windows, iOS or Android client apps to
 games. Most of the times, I'm able to make whatever I put my mind to.
 My best repositories, the ones for my personal projects, are kept
 private for now, so don't be misled.
+
 ### ☄️ Skills
 I'm best at **Python**, **C#**, **Kotlin** and **Rust**, but I also know a bit of 
 *C++*, *Java*, *JavaScript*, *Swift* and *Visual Basic* (it's what I started coding with).
 
+I've also recently gotten into DevOps and software deployment, learning CI/CD pipelines
+with GitHub Actions, and managing/deploying infrastructures with Terraform and Docker Compose.
 
 ## 🔭 Contacts
 - **Discord**: [zephyr.flac](https://discord.com/users/110107013207306240/)
 - **Telegram**: [zephyrflac](https://t.me/zephyrflac)
 - **E-mail**: <zeph@zephs.me>
+  
 I don't usually check or use other platforms.
