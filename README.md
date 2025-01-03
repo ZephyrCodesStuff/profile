@@ -4,7 +4,7 @@ Welcome to my GitHub profile; thank you for checking it out!
 Here is a summary of who I am and what I can do:
 
 ### ✨ General
-I'm an 18 year old boy (*he/him*) who lives in Italy, had way too much spare time
+I'm a 19 year old boy (*he/him*) who lives in Italy, had way too much spare time
 during his childhood and used it to learn the most random of things,
 from balisong flipping to musical composition.
 
